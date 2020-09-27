@@ -1,0 +1,4 @@
+enum StateClass {
+  menu,
+  playing,
+}
